@@ -1,2 +1,2 @@
 # latihan-21
-latihan
+git flow training
